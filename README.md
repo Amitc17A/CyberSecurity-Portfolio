@@ -1,5 +1,6 @@
-# CyberSecurity-Portfolio
-My CyberSecurity Portfolio featuring Penetration Testing Labs , Security Labs , Security Projects , Certifications , and Technical Write-ups. 
+# Pentesting-Portfolio
+My personal cybersecurity and penetration-testing portfolio documenting my
+hands-on learning, labs, projects, certifications, and security research.
 # 📚Platforms
 • Try Hack Me!
 
@@ -8,3 +9,5 @@ My CyberSecurity Portfolio featuring Penetration Testing Labs , Security Labs , 
 • Port Swigger
 
 • VMS
+# 📂 Repository Structure
+

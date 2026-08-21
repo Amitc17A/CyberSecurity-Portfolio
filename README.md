@@ -11,3 +11,5 @@ hands-on learning, labs, projects, certifications, and security research.
 • VMS
 # 📂 Repository Structure
 
+# Notes
+

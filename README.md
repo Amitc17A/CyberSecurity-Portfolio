@@ -1,7 +1,7 @@
 # Pentesting-Portfolio
 My personal cybersecurity and penetration-testing portfolio documenting my
 hands-on learning, labs, projects, certifications, and security research.
-# 📚Platforms
+# 📚Writeups
 • Try Hack Me!
 
 • Hack The Box
@@ -13,6 +13,7 @@ hands-on learning, labs, projects, certifications, and security research.
 • CTF
 
 # 📂 Repository Structure
+
 
 # Notes
 

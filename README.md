@@ -34,6 +34,8 @@ CyberSecurity-portfolio/
 │   ├── Google CyberSecurity
 │   ├── ISC2
 │   └── eJPT
+├── 04-CTF
+│   └──Bandit
 └── README.md
 ```
 

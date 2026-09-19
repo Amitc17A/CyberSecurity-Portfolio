@@ -4,7 +4,7 @@ I am an Offensive Security Practitioner focused on web application security, net
 Currently, I am building my cybersecurity portfolio on GitHub to document my hands-on methodology, feature my practical lab write-ups, and master the technical skills needed for a career as a Penetration Tester.
 
 # 🏆 My Achievements
-🥇 TryHackMe — Top 2%
+🥇 TryHackMe — Top 1%
 
 🎯 Completed TryHackMe Pre Security
 
